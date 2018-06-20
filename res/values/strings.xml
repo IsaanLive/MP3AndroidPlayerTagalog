@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  Main  -->
+    <string name="app_name">Pinoy MP3</string>
+    <string name="market_url">com.euroasiamp3.ph</string>
+    <string name="footer_message">Nagpapatakbo ka ng V1.0.7</string>
+    
+    <!-- EULA -->
+    <string name="eula">
+        Ang opisyal na pinahihintulutan na paggamit ng software na ito ay para lamang sa mga file na audio na malayang magagamit sa pampublikong domain! Sumasang-ayon ka na gamitin ang software na ito sa mga tuntunin at frame tulad ng tinukoy sa pamamagitan ng ang mga Batas ng iyong bansa ng paninirahan, ang Google Android Market at ang iyong mga carrier Tuntunin ng Serbisyo. Software ay lamang na interface sa pampublikong search engine at EuroAsia Singapore ay hindi mananagot sa kaso ng misue. Isang ilegal na paggamit ng tool na ito ay mahigpit na phobted. Ikaw lamang ay responsable para sa iyong mga aksyon.
+    </string>
+    
+    <!-- Free Apps & Offers Settings -->
+    <string name="btn_offers_name">Panoorin ang Video</string>
+	<string name="topappsurl">freemp3musicdownload.mobi/videos/</string> <!-- For Free App Offers -->
+	
+	<!-- Ad Mobs Banner Ads ID -->
+	<string name="admobBID">a1509c754789a61</string>
+	
+<!--  Languages -->
+    <!-- Content Descriptions -->
+    <string name="logo_icon_desc">Home Button</string>
+    <string name="action_search_desc">Search Button</string>
+    
+    <!-- Buttons -->
+    <string name="btn_search_name">Maghanap</string>
+    <string name="btn_topten_name">Kanta Top 10</string>
+    <string name="btn_downloads_name">Download</string>
+    <string name="btn_rate_name">Rate App</string>
+    <string name="btn_share_name">Ibahagi App</string>
+    <string name="btn_cancel_name">Kanselahin</string>
+    <string name="download_song">I-download Song</string>
+    <string name="share_song">Ibahagi Kanta</string>
+    
+    <!-- Edit Texts -->
+    <string name="edittext_search_hint">Ipasok ang Kanta o Artist</string>
+    
+    <!-- Names -->
+    <string name="no_results">Walang Natagpuang Mga resulta</string>
+    <string name="error_results">Mga Resulta ng Error Naglo-load</string>
+    <string name="no_active">Lumilitaw na hindi mo na magkaroon ng isang aktibong Koneksyon sa Internet o magkaroon ng isang Mahinang Signal. Mangyaring i-on ang iyong wifi o data at subukan muli.</string>
+    
+    <!-- Share Language -->
+    <string name="checkout">Suriin Out ito Kanta</string>
+    <string name="dlmessage">Uy i-download ang kantang ito :)</string>
+    
+    <!-- Toast Make -->
+    <string name="failedloading">Nabigo ang Naglo-load ng Kanta. Mangyaring Subukan Muli.</string>
+    <string name="addedqueue">I-download Idinagdag Upang Queue</string>
+</resources>
